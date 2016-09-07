@@ -2,6 +2,13 @@
 
 What you should do first is to click the `fork` button on this repo on Github.
 
+Detta går super bra ju!!!!
+
+BLA BLA BLA BLA BLA  BLA
+
+HEJEHJEHEJEH
+
+delete
 ## Common commands:
 
 * `git clone https://github.com/YourGithubUsername/Code-LTHGit2016.git` to clone this entire repo (your fork) into a directory on your computer.
